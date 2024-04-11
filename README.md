@@ -49,7 +49,8 @@ if __name__ == "__main__":
     print("File downloaded successfully.")
 ```
 ## OUTPUT
-<img width="940" alt="5a" src="https://github.com/Ganesh23013987/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/147473768/7e620082-df09-4be2-b142-e496e12b950f">
+<img width="870" alt="5a output in vscode" src="https://github.com/Ganesh23013987/5a_Create_Socket_for_HTTP_for_webpage_upload_and_download/assets/147473768/78b705a0-d112-40fc-8246-12f6ca6696d4">
+
 
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
